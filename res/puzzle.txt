@@ -1,0 +1,4 @@
+1:Rt Dn DL    Dn
+  DR DR DL    UL
+  Up Rt DL    UL
+  UR Up Rt 16:F
